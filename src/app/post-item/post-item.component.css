@@ -1,0 +1,4 @@
+<div
+      style="width: 15px; height: 15px; background-color: red"
+      *ngIf="status === 'éteint'"
+    ></div>
